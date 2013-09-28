@@ -1,5 +1,5 @@
 {
-	"name" : "vendor/Demo",
+	"name" : "vendor/demo",
 	"authors" : [{
 			"name" : "Psyduck.Mans",
 			"email" : "t-bird.mans@hotmail.com",
@@ -8,7 +8,7 @@
 		}
 	],
 	"keywords" : [
-		"Demo"
+		"demo"
 	],
 	"homepage" : "https://www.not-bad.org",
 	"license" : [
@@ -23,7 +23,7 @@
 	},
 	"autoload" : {
 		"psr-0" : {
-			"Demo" : "src"
+			"demo" : "src"
 		}
 	},
 	"support" : {
